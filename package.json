@@ -1,0 +1,28 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite serve",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@inertiajs/vue3": "^1.0.0",
+        "@tailwindcss/forms": "^0.5.3",
+        "@vitejs/plugin-vue": "^4.0.0",
+        "autoprefixer": "^10.4.12",
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.7.2",
+        "postcss": "^8.4.18",
+        "tailwindcss": "^3.2.1",
+        "vite": "^4.0.0",
+        "vite-plugin-legacy": "^2.1.0",
+        "vue": "^3.2.41"
+    },
+    "dependencies": {
+        "@bpmn-io/properties-panel": "^1.7.0",
+        "bpmn-js": "^12.0.0",
+        "bpmn-js-properties-panel": "^1.21.0",
+        "camunda-bpmn-moddle": "^7.0.1",
+        "inherits": "^2.0.4",
+        "zeebe-bpmn-moddle": "^0.18.0"
+    }
+}
